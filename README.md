@@ -4,6 +4,8 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
+[![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white)](https://keras.io/)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-008CFF?logo=matplotlib&logoColor=white)
 
 
 ## Description
