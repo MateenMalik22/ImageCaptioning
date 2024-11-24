@@ -20,5 +20,9 @@ Image-Captioning-VGG16-LSTM/
 ├── requirements.txt           # Python dependencies required to run the project
 └── README.md                  # Project description and instructions
 ```
+- **Image_Captioning.ipynb**: The Jupyter notebook containing the code for building and training the image captioning model, using VGG16 for feature extraction and LSTM for generating captions.
 
+- **requirements.txt**: A list of required libraries to run the project, such as TensorFlow, Keras, Numpy, etc.
+
+- **README.md**: A markdown file that provides an overview of the project, including the purpose, dataset used, and how to run the model.
 
