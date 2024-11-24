@@ -1,4 +1,10 @@
 # Image Captioning using VGG16 and LSTM
+[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
+
 
 ## Description
 This project implements an image captioning model that generates descriptive captions for images using a combination of `VGG16` and Long Short-Term Memory `(LSTM)` networks. The model uses the pre-trained VGG16 network for feature extraction from images and employs an LSTM for sequence modeling to generate human-readable captions.
