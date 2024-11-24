@@ -13,10 +13,12 @@ The dataset used in this project is the Mini COCO 2014 dataset, which contains 1
 The dataset contains a diverse collection of everyday images annotated with captions describing the content.
 
 ## Project Structure
+```
 Image-Captioning-VGG16-LSTM/
 │
 ├── Image_Captioning.ipynb      # Main Jupyter notebook for the image captioning model
 ├── requirements.txt           # Python dependencies required to run the project
 └── README.md                  # Project description and instructions
+```
 
 
