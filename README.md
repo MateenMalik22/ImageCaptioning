@@ -8,7 +8,7 @@ The dataset used in this project is the MSCOCO 2014 dataset, which contains 18.7
 ## Dataset
 - **Name**: MSCOCO 2014 dataset
 - **Size**: 18.7K images with 5 captions per image
-- **Source**: [MSCOCO 2014 dataset](https://cocodataset.org/#home)
+- **Source**: [MSCOCO 2014 dataset]([https://cocodataset.org/#home](https://www.kaggle.com/datasets/nagasai524/mini-coco2014-dataset-for-image-captioning))
 
 The dataset contains a diverse collection of everyday images annotated with captions describing the content.
 
