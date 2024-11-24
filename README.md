@@ -78,6 +78,6 @@ The current image captioning model using VGG16 and LSTM can be expanded and enha
 
 - **Real-time Caption Generation**: Currently, the model requires training on large datasets and may not be optimized for real-time use. Optimizing the model for real-time caption generation, where captions can be generated as users upload images, would increase its practical usability in applications like assistive technologies, mobile apps, or social media platforms.
 
-- **Fine-tuning**: -- **Fine-tuning**: Experiment with **fine-tuning** the captioning model architecture and hyperparameters to improve performance. By adjusting the layers, learning rates, batch sizes, and other settings, the model can potentially generate more accurate and contextually relevant captions for different types of images.
+- **Fine-tuning**: Experiment with **fine-tuning** the captioning model architecture and hyperparameters to improve performance. By adjusting the layers, learning rates, batch sizes, and other settings, the model can potentially generate more accurate and contextually relevant captions for different types of images.
 
 - **Improvement in Caption Quality**: Caption generation can be further improved by integrating **semantic understanding** models, such as those based on **transformers** or **BERT-based architectures**, to generate more contextually rich and human-like descriptions.
