@@ -32,7 +32,7 @@ The dataset contains a diverse collection of everyday images annotated with capt
 
 ## Tools and Technologies
 
-- **TensorFlow**: Used for building and training the deep learning model. It provides powerful tools for both image processing and sequence modeling.
+- `**TensorFlow**`: Used for building and training the deep learning model. It provides powerful tools for both image processing and sequence modeling.
 - **Keras**: A high-level API for building and training neural networks, used alongside TensorFlow for easier model construction and experimentation.
 - **VGG16**: A pre-trained Convolutional Neural Network used for extracting features from images.
 - **LSTM**: A type of Recurrent Neural Network used for generating sequences, particularly useful for generating captions.
@@ -40,18 +40,7 @@ The dataset contains a diverse collection of everyday images annotated with capt
 - **Pandas**: Used for managing the dataset, especially for handling and organizing the captions.
 - **Matplotlib**: Utilized for visualizing model training progress and generating graphical outputs.
 - **NLTK**: Used for text preprocessing, including tokenization and handling of caption data.
-
-## Prerequisites
-Ensure you have the following dependencies installed:
-
-- Python 3.6+
-- TensorFlow
-- Keras
-- Numpy
-- Pandas
-- Matplotlib
-- NLTK (Natural Language Toolkit)
-  
+ 
 ## Project Structure
 ```
 Image-Captioning-VGG16-LSTM/
