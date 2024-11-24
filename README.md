@@ -66,3 +66,18 @@ Image-Captioning-VGG16-LSTM/
 
 - **README.md**: A markdown file that provides an overview of the project, including the purpose, dataset used, and how to run the model.
 
+## Future Scope
+
+The current image captioning model using VGG16 and LSTM can be expanded and enhanced in several ways:
+
+- **Use of Advanced Pretrained Models**: Instead of VGG16, future iterations of the project can explore the use of more advanced and powerful pre-trained models, such as **ResNet** or **Inception**, for better image feature extraction. These models provide improved accuracy and deeper feature representations, potentially enhancing the overall performance of the captioning system.
+
+- **Incorporating Attention Mechanisms**: To improve the quality of captions, the addition of **Attention Mechanisms** can be considered. This would allow the model to focus on specific parts of an image while generating each word in a caption, leading to more detailed and contextually accurate descriptions.
+
+- **Multilingual Captioning**: Expanding the system to generate captions in multiple languages could broaden its application. This can be achieved by incorporating models like **transformers** for multilingual support, such as **mBART** or **Multilingual BERT**, for cross-lingual captioning tasks.
+
+- **Real-time Caption Generation**: Currently, the model requires training on large datasets and may not be optimized for real-time use. Optimizing the model for real-time caption generation, where captions can be generated as users upload images, would increase its practical usability in applications like assistive technologies, mobile apps, or social media platforms.
+
+- **Fine-tuning**: -- **Fine-tuning**: Experiment with **fine-tuning** the captioning model architecture and hyperparameters to improve performance. By adjusting the layers, learning rates, batch sizes, and other settings, the model can potentially generate more accurate and contextually relevant captions for different types of images.
+
+- **Improvement in Caption Quality**: Caption generation can be further improved by integrating **semantic understanding** models, such as those based on **transformers** or **BERT-based architectures**, to generate more contextually rich and human-like descriptions.
